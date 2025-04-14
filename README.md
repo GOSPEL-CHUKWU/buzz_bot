@@ -8,6 +8,7 @@ These technologies were used in the implementation of this project `It's not lim
 Next JS, 
 Tailwind CSS,
 Typescript,
+etc.
 ```
 
 Open [https://www.buzzbot.ai](https://www.buzzbot.ai) with your browser to see the result.
