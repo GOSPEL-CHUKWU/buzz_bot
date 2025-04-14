@@ -2,12 +2,22 @@ Welcome to [`Buzz Bot`](https://www.buzzbot.ai), your AI-powered guide to the la
 
 ## Built With
 
-First, It is made up of the:
+These technologies were used in the implementation of this project `It's not limited to these technologies`:
 
 ```bash
-Frontend, Backend, and the AI team
+Next JS, 
+Tailwind CSS,
+Typescript,
 ```
 
 Open [https://www.buzzbot.ai](https://www.buzzbot.ai) with your browser to see the result.
 
 You can start interacting with the model by sending prompts like `What's new in the crypto space?`. The model updates information as new information surface.
+
+## Team
+
+First, We are made up of the:
+
+```bash
+Frontend, Backend, and the AI team
+```
