@@ -5,11 +5,7 @@ Welcome to [`Buzz Bot`](https://buzzbot.ai), your AI-powered guide to the latest
 First, It is made up of the:
 
 ```bash
-Frontend
-# ,
-Backend
-# and
-AI team
+Frontend, Backend, and AI team
 ```
 
 Open [buzzbot.ai](http://buzzbot.ai) with your browser to see the result.
